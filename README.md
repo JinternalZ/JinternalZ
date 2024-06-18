@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @JinternalZ
-- 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Python/Machine Learning/Data Analysis projects
-- 📫 How to reach me jinternal@protonmail.com
+- 👀 I’m interested in webapp development
+- 🌱 I’m currently learning NuxtJS
+- 💞️ I’m looking to collaborate on any Vue/Next/Node web apps
+- 📫 How to reach me ajakester1@gmail.com
 
 <!---
 JinternalZ/JinternalZ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
